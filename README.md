@@ -1,1 +1,1 @@
-SSBD-OMERO_api - using OMERO API in SSBD database
+SSBD-OMERO_api - Python example codes to access OMERO API within SSBD database
